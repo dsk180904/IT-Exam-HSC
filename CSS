@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Tourist Places
+</title>
+<style>
+.left{background-color:lightyellow; font-family:Harrington; height:200px; width:673px; float:left; border:solid 1px;}
+.right{background-color:pink; font-family:Baskerville Old Face; height:200px; width:673px; float:right; border:solid 1px;}
+</style>
+</head>
+<body>
+<header style="background-color:lightblue; height:100px; width:100%; border:solid 1px; border-color:black; color:magenta; text-align:center;">
+<h1>
+Tourist Places
+</h1>
+</header>
+<section class="left">
+City
+<ol>
+<li>Pune</li>
+<li>Bangalore</li>
+<li>Hyderabad</li>
+<li>Mumbai</li>
+</ol>
+</section>
+<section class="right">
+Tourist Attractions
+<ul>
+<li>Kelkar Museum</li>
+<li>Charminar</li>
+<li>Taj Mahal</li>
+<li>Jantar Mantar</li>
+</ul>
+</section>
+</body>
+</html>
 
